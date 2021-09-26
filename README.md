@@ -1,6 +1,7 @@
 # ParachuteMan
 
 **Written by:** **William Rai** and **Jordan Sukhnandan**
+
 **SBUHack submission:** https://devpost.com/software/parachute-man?ref_content=my-projects-tab&ref_feature=my_projects
 
 ## Inspiration
